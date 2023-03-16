@@ -1,0 +1,1 @@
+# Пример работы со стилем REST API в Spring framework

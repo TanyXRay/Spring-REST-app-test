@@ -1,4 +1,4 @@
-package ru.home.chernyadieva.restapiapp.model;
+package ru.home.chernyadieva.restapiapp.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

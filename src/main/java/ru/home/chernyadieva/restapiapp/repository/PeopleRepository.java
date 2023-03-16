@@ -2,8 +2,7 @@ package ru.home.chernyadieva.restapiapp.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import ru.home.chernyadieva.restapiapp.model.Person;
-
+import ru.home.chernyadieva.restapiapp.entity.Person;
 
 import java.util.List;
 
